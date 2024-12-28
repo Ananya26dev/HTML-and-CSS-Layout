@@ -1,0 +1,1 @@
+This project is a responsive webpage layout created using HTML and CSS. It features a simple grid structure that showcases a webpage divided into multiple sections: Header, Navigation, Main Article, Advertisement, and Footer.
